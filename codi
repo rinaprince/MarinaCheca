@@ -4,3 +4,4 @@ int sequencial (int [] array, int clau) {
             return i;
     return -1;
 }
+
