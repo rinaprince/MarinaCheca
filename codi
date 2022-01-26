@@ -5,3 +5,4 @@ int sequencial (int [] array, int clau) {
     return -1;
 }
 
+codi nou ou yeah
